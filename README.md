@@ -2,6 +2,9 @@
 
 An interactive voice-enabled debate bot powered by OpenAI GPT-4, Whisper (Speech-to-Text), and TTS (Text-to-Speech). Users can debate any topic, choosing their stance (For/Against), and engage in a structured argument against AI. The bot provides voice and text responses, feedback, and scoring for relevance, logic, and persuasiveness.
 
+![image](https://github.com/user-attachments/assets/d73d12a8-6162-4f58-9c54-3427de86e7f8)
+
+
 🚀 Features
 
 ✅ Voice & Text Input: Speak or type your arguments.
