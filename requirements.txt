@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+audio-recorder-streamlit
+streamlit-float
+langchain
+langchain_community
+chromadb
+pypdf
+hmac
